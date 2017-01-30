@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "e1e071a5-b9ec-4763-8c9b-5bbb56872dd2",
+  "alias": "CustomSearchWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "e1e071a5-b9ec-4763-8c9b-5bbb56872dd2",
+    "group": { "default": "Under Development" },
+    "title": { "default": "CustomSearch" },
+    "description": { "default": "Creates a custom search to fetch documents from a document library using Search rest end points" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "CustomSearch"
+    }
+  }]
+}

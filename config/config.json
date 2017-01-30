@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/customSearch/CustomSearchWebPart.js",
+      "manifest": "./src/webparts/customSearch/CustomSearchWebPart.manifest.json",
+      "outputPath": "./dist/custom-search.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "customSearchStrings": "webparts/customSearch/loc/{locale}.js"
+  }
+}

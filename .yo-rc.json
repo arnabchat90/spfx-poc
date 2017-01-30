@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "spfx-poc",
+    "libraryId": "349eca88-ddcc-488e-bfdc-a7199c2c63fd",
+    "framework": "react"
+  }
+}

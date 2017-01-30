@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "spfxvnssamples",
+  "container": "spfx-poc",
+  "accessKey": "dB/3+fJfBZNk8jKSaq3rM8MQW8aI2nppQPlLxFYQduOqwo+iYS9bv/czCAwUQi5F4zULkO9m8CVHAFfPJOdOJQ=="
+}

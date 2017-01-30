@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-poc-client-side-solution",
+    "id": "349eca88-ddcc-488e-bfdc-a7199c2c63fd",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-poc.sppkg"
+  }
+}
